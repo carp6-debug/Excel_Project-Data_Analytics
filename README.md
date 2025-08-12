@@ -1,2 +1,2 @@
-# Excel_Project-Data_Analystics
+# Excel_Project-Data_Analytics
 Portfolio Project Excel
